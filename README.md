@@ -6,6 +6,4 @@
 - Post Graduate in MCA
 - Graduate in BSc Computer Science
 
-**My Portfolio -** [https://msanoopdb.wixsite.com/sd2b](url)
-
 **LinkedIn -** [www.linkedin.com/in/sd2b](url)
