@@ -7,5 +7,5 @@ As a dedicated and aspiring Flutter developer, I am passionate about crafting mu
 - Post Graduate in MCA
 - Graduate in BSc Computer Science
 
-**Portfolio -** [https://codelife.in/](url)
+**Portfolio -** [https://codelife.in](url)
 **LinkedIn -** [www.linkedin.com/in/sd2b](url)
