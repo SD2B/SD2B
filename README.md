@@ -3,7 +3,7 @@
 
 #### As a dedicated and aspiring Flutter developer, I am passionate about crafting multiplatform applications that combine functionality and user-friendly design. With a strong foundation in Flutter and Dart, I am eager to contribute my skills and learn from experienced professionals.
 
-- 👨‍💻 All of my projects are available at [www.codelife.in](www.codelife.in)
+- 👨‍💻 All of my projects are available at [www.codelife.in](https://codelife.in/)
 
 - 📫 How to reach me **msanoopdb1@gmail.com**
 
