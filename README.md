@@ -1,13 +1,31 @@
 <h1 align="center">Hi 👋, I'm Sanoop Das</h1>
 <h3 align="center">Multiplatform Software Developer | Flutter Expert</h3>
 
-#### As a dedicated and aspiring Flutter developer, I am passionate about crafting multiplatform applications that combine functionality and user-friendly design. With a strong foundation in Flutter and Dart, I am eager to contribute my skills and learn from experienced professionals.
+#### I am a Flutter Developer with over 1.4 years of experience building applications for mobile, web, and desktop platforms. My focus is on creating reliable, maintainable, and efficient software solutions tailored to user needs. 
 
-- 👨‍💻 All of my projects are available at [www.codelife.in](https://codelife.in/)
+🔹 Technical Skills:
+Programming: Dart, JavaScript
+Frameworks & Tools: Flutter, Node.js, Freezed, Figma, Postman, Git
+State Management: GetX, Riverpod, Provider, Hooks
+Architectures: MVVM, MVC
+Databases: Firebase, SQLite, Hive, MongoDB, MySQL
+Backend Services: REST APIs
+
+🔹 Key Achievements:
+Published Smart Tabs, a Chrome extension designed to improve tab management.
+Experienced in integrating Firebase for authentication and real-time database functionality.
+Skilled in implementing MVVM architecture for modular and testable codebases.
+
+🔹 Professional Approach:
+I focus on writing clean, structured code and collaborating effectively to deliver software solutions that meet project requirements and user expectations.
+
+🔹 Connect with Me:
+Let’s discuss opportunities to create impactful software solutions together.
+
+- 👨‍💻 All of my projects and plugins and my experience details are available at [www.sanoop.dev](https://sanoop.dev/)
 
 - 📫 How to reach me **msanoopdb1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rbEgD025TUoBWKfC7P2bIRn-t3LcTts4/view?usp=sharing](https://drive.google.com/file/d/1rbEgD025TUoBWKfC7P2bIRn-t3LcTts4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
